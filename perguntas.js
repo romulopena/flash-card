@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Esportes',
+    'Qual é será o melhor time da série B de 2025?',
+    'Clube do Remo de Belém do Pará'
 )
 
 criaCartao(
